@@ -1,0 +1,20 @@
+import UIKit
+
+var str = "Hello, playground"
+
+func addTwoNumbers(){
+    let a = 1
+    let b = 2
+    let c = a + b
+    print(c)
+}
+//addTwoNumbers()
+
+func substratcTwoNumbers(){
+    let d = 5
+    let e = 1
+    let f = d - e
+    print(f)
+    
+}
+substratcTwoNumbers()
